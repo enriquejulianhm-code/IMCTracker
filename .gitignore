@@ -1,0 +1,17 @@
+# Compilados y build de Maven
+target/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# Configuración local de NetBeans
+nbproject/private/
+.nb-gradle/
+
+# Configuración con credenciales (¡NO subir!)
+src/main/resources/db.properties
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
